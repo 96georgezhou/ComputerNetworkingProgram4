@@ -1,0 +1,21 @@
+client addr = 172.21.198.81 port = 39104
+official hostname: uw1-320-01.uwb.edu
+alias: none
+ip address: 172.21.198.81 ... hit! 
+an honest client
+
+client addr = 172.21.198.82 port = 36746
+official hostname: uw1-320-02.uwb.edu
+alias: none
+ip address: 172.21.198.82 ... hit! 
+an honest client
+
+client addr = 69.91.202.149 port number = 51434official hostname: uw2-140-c0yb7y1.uwb.edualias: noneip address: 69.91.202.149 ... hit!an honest client
+
+client addr = 10.102.54.225 port = 60583
+gethostbyaddr error for the client( 10.102.54.225): 1
+a spoofing client
+
+client addr = 10.102.54.225 port = 60616
+gethostbyaddr error for the client( 10.102.54.225): 1
+a spoofing client
